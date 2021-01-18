@@ -10,7 +10,7 @@ $email_body = "Name: $fname.\n".
                "Email: $email.\n".
                "Message: $message.\n";
 
-$to = "isaacadepitan@yahoo.com";
+$to = "sales@vaspackenergy.com";
 $headers = "From: $email_from \r\n";
 $headers = "Reply-to: $email \r\n";
 

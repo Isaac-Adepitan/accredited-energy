@@ -47,7 +47,7 @@ h6 {
 }
 
 .basebg {
-    background-color: #065446;
+    background-color: #0A8E26;
 }
 
 #container {
@@ -56,8 +56,8 @@ h6 {
 }
 
 .navbar-brand {
-    max-width: 60px;
-    max-height: 60px;
+    max-width: 120px;
+    max-height: 120px;
 }
 
 .navbar-nav > li {
@@ -68,7 +68,7 @@ h6 {
 
 .left {
     width: 38vw;
-    background: url(https://res.cloudinary.com/dkshl8nj6/image/upload/v1602186398/Accredited%20Energy/Bg_pz9mnh.png);
+    background: url(https://res.cloudinary.com/dkshl8nj6/image/upload/v1610973436/Accredited%20Energy/bg_a8vcyw.png);
     background-repeat: no-repeat;
     position: relative;
 }
@@ -96,22 +96,22 @@ form * {
 
 .btn-outline-success {
     border-style: solid;
-    border-color: #065446;
+    border-color: #0A8E26;
     color: #065446;
 }
 
 .btn-outline-success:hover {
-    background-color: #065446;
+    background-color: #0A8E26;
     color: #ffffff;
 }
 
 .btn-success {
-    background-color: #065446;
+    background-color: #0A8E26;
     border: none;
     color: #fff;
 }
 .btn-success:hover {
-    background-color: #065446;
+    background-color: #0A8E26;
     color: #fff;
 }
 
