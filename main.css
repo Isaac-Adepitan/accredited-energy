@@ -54,6 +54,11 @@ h6 {
     align-items: baseline;
 }
 
+.text-justify {
+    text-align:justify;
+    word-spacing: 6px
+    word-break: break-all;
+}
 .basebg {
     background-color: #0A8E26;
 }
