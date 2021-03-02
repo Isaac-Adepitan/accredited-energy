@@ -50,7 +50,7 @@ h6 {
     background-color: #065446;
 }
 
-#container {
+#base {
     min-height: 100vh;
     display: flex;
 }
@@ -67,8 +67,9 @@ h6 {
 }
 
 .left {
-    width: 38vw;
-    background: url(https://res.cloudinary.com/dkshl8nj6/image/upload/v1602186398/Accredited%20Energy/Bg_pz9mnh.png);
+    width: 38%;
+    height: 100vh;
+    background: url(https://res.cloudinary.com/dkshl8nj6/image/upload/v1614629608/Accredited%20New/Mesh_qiss6w.png);
     background-repeat: no-repeat;
     position: relative;
 }
@@ -82,7 +83,8 @@ h6 {
 }
 
 .right {
-    width: 62vw;
+    width: 62%;
+    height: 100vh;
     padding: 40px;
 }
 

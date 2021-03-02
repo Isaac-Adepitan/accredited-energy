@@ -16,7 +16,7 @@ $email_body = "Name: $fname.\n".
                "Traget Price: $tprice.\n".
                "Message: $message.\n";
 
-$to = "isaacadepitan@yahoo.com";
+$to = "sales@accreditedeng.com";
 $headers = "From: $email_from \r\n";
 $headers = "Reply-to: $email \r\n";
 
